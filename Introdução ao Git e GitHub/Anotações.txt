@@ -1,1 +1,29 @@
-O Git Bash é um terminal extendido para otimizar o uso do git
+Anotações de Git:
+
+A chave SSH serve para estabelecer uma comunicação segura e encriptada entre duas máquinas.
+
+O Git é uma ferramenta de controle de versão. 
+
+Blob - Contém metadados do git, exemplo: Tipo do objeto, tamanho do aquivo, Sha1, nome do commit etc.
+
+Tree - é a arvore que contém os metadados e aponta para um blob. 
+
+Comandos:
+
+git init - inicializa um repositório git. 
+
+git add * -  Adiciona os arquivos que estão unmodified para a área de staged.
+
+git commit - Adiciona os arquivos que estão na área staged para a área de unmodified.
+
+git push - empurra o arquivo para o servidor.
+
+git fetch - força o git procurar as atualizações mais recentes do repositório. 
+
+git pull - puxa os arquivos para o seu repositório local. 
+
+git status - trás as informações do git, exemplo: a branch que você está trabalhando, status de arquivos e etc. 
+
+
+
+
